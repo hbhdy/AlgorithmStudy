@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HSS Code\\AlgorithmStudy\\programmers_Level_2\\programmers_Level_2.csproj",
+      "projectUniqueName": "C:\\HSS Code\\AlgorithmStudy\\AlgorithmStudy\\programmers_Level_2\\programmers_Level_2.csproj",
       "projectName": "programmers_Level_2",
-      "projectPath": "C:\\HSS Code\\AlgorithmStudy\\programmers_Level_2\\programmers_Level_2.csproj",
+      "projectPath": "C:\\HSS Code\\AlgorithmStudy\\AlgorithmStudy\\programmers_Level_2\\programmers_Level_2.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\HSS Code\\AlgorithmStudy\\programmers_Level_2\\obj\\",
+      "outputPath": "C:\\HSS Code\\AlgorithmStudy\\AlgorithmStudy\\programmers_Level_2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

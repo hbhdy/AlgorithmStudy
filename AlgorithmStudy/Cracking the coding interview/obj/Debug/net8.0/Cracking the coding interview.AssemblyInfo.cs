@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("programmers_Level_2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Cracking the coding interview")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81e16efa06d1c37fee2e0176b2d03f8d01a8cff1")]
-[assembly: System.Reflection.AssemblyProductAttribute("programmers_Level_2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("programmers_Level_2")]
+[assembly: System.Reflection.AssemblyProductAttribute("Cracking the coding interview")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Cracking the coding interview")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.
